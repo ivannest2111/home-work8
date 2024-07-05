@@ -1,0 +1,64 @@
+
+a{
+    text-decoration: none;
+    line-height: 1.33px;
+}
+ul{
+    list-style: none;
+}
+
+button{
+    color: black;
+}
+*{
+    color: #626262;
+    background-color: #fff;
+    font-family: 'Montserrat' , serif;
+    font-weight: 400 ;
+   font-size: 16px; /*inherit-наслідує від батьківського елемента*/
+   
+}
+.header{
+    font-size: 14px;
+    
+    text-transform: uppercase;
+}
+h2{
+    color: black;
+}
+.WebStudio{
+    font-family: 'Raleway', serif;
+    font-weight: 700;
+}
+.navigation{
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+h1{
+    font-family: 'roboto';
+    font-weight: 900;
+}
+button{
+    font-family: 'roboto';
+    font-weight: 700;
+}
+.h3{
+    font-family: 'roboto';
+    font-weight: 700;
+}
+.p{
+    font-family: 'roboto';
+    font-weight: 400;
+}
+.h2{
+    font-family: 'roboto';
+    font-weight: 700;
+}
+.h32{
+    font-family: 'roboto';
+    font-weight: 500;
+}
+.a{
+    font-family: 'roboto';
+    font-weight: 400;
+}
